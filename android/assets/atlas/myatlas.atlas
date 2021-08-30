@@ -1,0 +1,314 @@
+
+myatlas.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buy_d
+  rotate: false
+  xy: 642, 280
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+buy_u
+  rotate: false
+  xy: 642, 158
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+buyin
+  rotate: false
+  xy: 844, 314
+  size: 167, 86
+  orig: 167, 86
+  offset: 0, 0
+  index: -1
+cancel_d
+  rotate: false
+  xy: 642, 36
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+dialog
+  rotate: false
+  xy: 2, 402
+  size: 1000, 563
+  orig: 1000, 563
+  offset: 0, 0
+  index: -1
+marketBtn_D
+  rotate: false
+  xy: 2, 2
+  size: 638, 398
+  orig: 638, 398
+  offset: 0, 0
+  index: -1
+soldout
+  rotate: false
+  xy: 844, 226
+  size: 167, 86
+  orig: 167, 86
+  offset: 0, 0
+  index: -1
+
+myatlas2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cancel_u
+  rotate: false
+  xy: 642, 280
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+confirm_d
+  rotate: false
+  xy: 642, 158
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+confirm_u
+  rotate: false
+  xy: 642, 36
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+homebg
+  rotate: false
+  xy: 2, 402
+  size: 1000, 563
+  orig: 1000, 563
+  offset: 0, 0
+  index: -1
+marketBtn_U
+  rotate: false
+  xy: 2, 2
+  size: 638, 398
+  orig: 638, 398
+  offset: 0, 0
+  index: -1
+
+myatlas3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+info_bg
+  rotate: false
+  xy: 2, 2
+  size: 621, 408
+  orig: 621, 408
+  offset: 0, 0
+  index: -1
+marketbg
+  rotate: false
+  xy: 2, 412
+  size: 1000, 563
+  orig: 1000, 563
+  offset: 0, 0
+  index: -1
+ok_d
+  rotate: false
+  xy: 625, 290
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+ok_u
+  rotate: false
+  xy: 625, 168
+  size: 200, 120
+  orig: 200, 120
+  offset: 0, 0
+  index: -1
+
+myatlas4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+caoyu
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+jinyu
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+shopbg
+  rotate: false
+  xy: 2, 404
+  size: 1000, 563
+  orig: 1000, 563
+  offset: 0, 0
+  index: -1
+
+myatlas5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+kaoyu
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+tech_bg
+  rotate: false
+  xy: 2, 404
+  size: 1000, 563
+  orig: 1000, 563
+  offset: 0, 0
+  index: -1
+
+myatlas6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+atech
+  rotate: false
+  xy: 451, 26
+  size: 457, 286
+  orig: 457, 286
+  offset: 0, 0
+  index: -1
+btech
+  rotate: false
+  xy: 402, 314
+  size: 475, 474
+  orig: 475, 474
+  offset: 0, 0
+  index: -1
+ctech
+  rotate: false
+  xy: 2, 790
+  size: 644, 190
+  orig: 644, 190
+  offset: 0, 0
+  index: -1
+qinyu
+  rotate: false
+  xy: 2, 2
+  size: 447, 146
+  orig: 447, 146
+  offset: 0, 0
+  index: -1
+righthouse
+  rotate: false
+  xy: 2, 150
+  size: 398, 638
+  orig: 398, 638
+  offset: 0, 0
+  index: -1
+
+myatlas7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+goback_d
+  rotate: false
+  xy: 2, 170
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+goback_l_d
+  rotate: false
+  xy: 404, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+lefthouse
+  rotate: false
+  xy: 2, 372
+  size: 400, 634
+  orig: 400, 634
+  offset: 0, 0
+  index: -1
+luomu
+  rotate: false
+  xy: 404, 606
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+luosi
+  rotate: false
+  xy: 404, 204
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+
+myatlas8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+goback_l_u
+  rotate: false
+  xy: 2, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+goback_u
+  rotate: false
+  xy: 404, 2
+  size: 400, 200
+  orig: 400, 200
+  offset: 0, 0
+  index: -1
+shayu
+  rotate: false
+  xy: 2, 606
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+store
+  rotate: false
+  xy: 2, 204
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+sun
+  rotate: false
+  xy: 404, 606
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+x
+  rotate: false
+  xy: 404, 204
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
